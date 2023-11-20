@@ -11,7 +11,7 @@
 ## gitignoren
 ## EDA
 ## README
-## Tailings Dam Failures 1915 - 2022 as of 31Jan23
+## Tailings Dam Failures
 ## app
 ## requirements
 
