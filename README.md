@@ -1,16 +1,12 @@
 # Tailings-dam-failure-graphs-2023
 
-Content:
-$ tree
-.
-├── README.md
-├── app.py
-├── vehicles_us.csv
-├── requirements.txt
-└── notebooks
-    └── EDA.ipynb
-└── .streamlit
-    └── config.toml
+## Index:
+1. [gitignoren](#gitignore)
+2. [EDA](#EDA.ipynb)
+3. [README](#README.md)
+4. [Tailings Dam Failures 1915 - 2022 as of 31Jan23](#Tailings Dam Failures 1915 - 2022 as of 31Jan23.csv)
+5. [app](#app.py)
+6. [requirements.txt](#requirements.txt)
 
 This is a begginers repository about tailings dam failures from 1915 to 2023, wich was obtained from:http://www.csp2.org/tsf-failures-from-1915
 It is necessary to acknowledgement the contribution for making this database:
