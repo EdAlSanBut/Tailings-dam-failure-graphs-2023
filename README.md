@@ -5,7 +5,7 @@
 2. [gitignoren](#gitignore)
 3. [EDA](#EDA)
 4. [README](#README)
-5. [Tailings Dam Failures] (#Tailings Dam Failures 1915 - 2022 as of 31Jan23)
+5. [Tailings Dam Failures] (#Tailings_Dam_Failures)
 6. [app](#app)
 7. [requirements](#requirements)
 8. [acknowledgements](#acknowledgements)
