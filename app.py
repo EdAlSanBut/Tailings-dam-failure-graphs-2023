@@ -4,12 +4,6 @@ import csv
 import streamlit as st
 import os
 
-new_directory = 'D:/CURSOS/PRACTICUM/notebooks'
-os.chdir(new_directory)
-current_directory_after_change = os.getcwd()
-print("Nuevo directorio actual:", current_directory_after_change)
-
-
 def parse_custom_date(date_str):
     try:
         # Intenta analizar el formato "01/01/1900"
