@@ -4,7 +4,7 @@
 1. [gitignoren](#gitignore)
 2. [EDA](#EDA.ipynb)
 3. [README](#README.md)
-4. [Tailings Dam Failures 1915 - 2022 as of 31Jan23] (#Tailings Dam Failures 1915 - 2022 as of 31Jan23.csv)
+4. [Tailings Dam Failures] (#Tailings Dam Failures 1915 - 2022 as of 31Jan23.csv)
 6. [app](#app.py)
 7. [requirements](#requirements.txt)
 
